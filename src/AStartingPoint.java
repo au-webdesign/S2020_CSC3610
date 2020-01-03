@@ -14,6 +14,6 @@ public class AStartingPoint {
         // but does have a wrapper object equvilent
         Integer myNum = 12;
         // Show how you can method 'shop' with IDE
-
+        // This is a change
     }
 }
