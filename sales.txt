@@ -13,3 +13,4 @@ East,Howard,Binder,29,1.99
 East,Parent,Binder,81,19.99
 East,Jones,Pencil,35,4.99
 Central,Smith,Desk,2,125
+East,Smith,Pencil,2,222
