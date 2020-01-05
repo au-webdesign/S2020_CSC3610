@@ -1,0 +1,15 @@
+East,Jones,Pencil,95,1.99
+Central,Kivell,Binder,50,19.99
+Central,Jardine,Pencil,36,4.99
+Central,Gill,Pen,27,19.99
+West,Sorvino,Pencil,56,2.99
+East,Jones,Binder,60,4.99
+Central,Andrews,Pencil,75,1.99
+Central,Jardine,Pencil,90,4.99
+West,Thompson,Pencil,32,1.99
+East,Jones,Binder,60,8.99
+Central,Morgan,Pencil,90,4.99
+East,Howard,Binder,29,1.99
+East,Parent,Binder,81,19.99
+East,Jones,Pencil,35,4.99
+Central,Smith,Desk,2,125
