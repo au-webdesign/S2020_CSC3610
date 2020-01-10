@@ -10,7 +10,7 @@ public class InClass_1_10b {
             if( gotValidData( theString )){
                System.out.print("Yes that a valid date") ;
             } else {
-                System.out.print("Nope Not a valid date") ;
+                System.out.print("Nope! ... Not a valid date") ;
             }
         }
     }
