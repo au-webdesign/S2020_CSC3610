@@ -19,6 +19,6 @@ public class driveWhyJava_1_13 {
         wins.add( 1  );
         wins.add( 14  );
         wins.add( 14  );
-        outputTeamInfo( teams, wins);
+        //outputTeamInfo( teams, wins);
     }
 }
